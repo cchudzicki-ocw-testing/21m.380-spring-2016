@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Dr. Florian Hollerweger discusses challenges students
+  face when engaging in the sound design process and strategies he uses to support
+  them.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -17,7 +20,7 @@ Use a Visual to Navigate Stages of the Design Process
 
 For their {{% resource_link cf15ea27-ab5d-b27b-a2b2-eefe4e862776 "final project" "#FP" %}}, students engage in the design process as outlined in Andy’s Farnell’s text _Designing Sound._  In this design process, students don’t write code immediately. Instead, they begin by analyzing, researching, and building models of the real-world sounds they hope to recreate.
 
-{{< resource dc9546d2-0d82-249b-e168-922424bd1865 "Diagram of an ear surrounded by a circle of arrows connecting the stages of the design process: real-world example, analysis, requirements specification, research, model, method selection, implementation, and final design." >}}
+{{< resource "dc9546d2-0d82-249b-e168-922424bd1865" >}}
 
 Sound design stages according to Andy Farnell (diagram by Florian Hollerweger).
 

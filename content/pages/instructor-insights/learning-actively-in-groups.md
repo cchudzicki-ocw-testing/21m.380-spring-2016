@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Dr. Florian Hollerweger discusses how he includes group
+  work opportunities in 21M.380 Music and Technology: Sound Design and shares three
+  examples.'
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

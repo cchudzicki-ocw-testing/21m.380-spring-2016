@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page summarizes the course goals, required hardware and software,
+  coursework and grading, and the calendar of topics and due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

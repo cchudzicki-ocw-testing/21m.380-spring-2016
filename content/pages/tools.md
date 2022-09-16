@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page lists the specific hardware and software tools required to
+  complete the course assignments.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents the lecture slides and individual handouts for each
+  lecture.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
